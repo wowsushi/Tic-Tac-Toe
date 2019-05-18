@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.377f753e.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe/static/js/main.377f753e.chunk.js.map",
+    "runtime~main.js": "/Tic-Tac-Toe/static/js/runtime~main.adeb2bb3.js",
+    "runtime~main.js.map": "/Tic-Tac-Toe/static/js/runtime~main.adeb2bb3.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Tic-Tac-Toe/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Tic-Tac-Toe/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "precache-manifest.20cb19eacbea05a714c925c350f36005.js": "/Tic-Tac-Toe/precache-manifest.20cb19eacbea05a714c925c350f36005.js",
+    "service-worker.js": "/Tic-Tac-Toe/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Tic-Tac-Toe/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Tic-Tac-Toe/static/media/logo.5d5d9eef.svg"
+  }
+}
